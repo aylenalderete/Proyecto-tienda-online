@@ -5,5 +5,5 @@
 </p>
 
 <p align="left">
-  <img height="200" src="./Captura de pantalla de 2021-03-05 11-44-03.png" />
+  <img height="200" src="./Captura de pantalla de 2021-03-05 11-47-11.png" />
 </p>
